@@ -12,7 +12,7 @@ Optional
 ### API Usage
 End point that consumes **multipart/form-data** content type and accepts only **.txt** file types. 
 
-You check **samples/** directory for testing sending data.
+Checkout **samples/** directory for testing sending data.
 
 ```
 POST - /api/outcomes
