@@ -1,4 +1,4 @@
-package com.giftgo.sbt.integration;
+package com.example.sbt.integration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

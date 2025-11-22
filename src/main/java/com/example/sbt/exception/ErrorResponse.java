@@ -1,4 +1,4 @@
-package com.giftgo.sbt.exception;
+package com.example.sbt.exception;
 
 public record ErrorResponse(
         String message,

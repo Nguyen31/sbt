@@ -1,6 +1,6 @@
-package com.giftgo.sbt.validator;
+package com.example.sbt.validator;
 
-import com.giftgo.sbt.exception.ValidationException;
+import com.example.sbt.exception.ValidationException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.support.DefaultMessageSourceResolvable;
 import org.springframework.stereotype.Component;

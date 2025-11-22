@@ -1,4 +1,4 @@
-package com.giftgo.sbt.model;
+package com.example.sbt.model;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.PositiveOrZero;

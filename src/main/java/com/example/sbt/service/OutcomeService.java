@@ -1,8 +1,8 @@
-package com.giftgo.sbt.service;
+package com.example.sbt.service;
 
-import com.giftgo.sbt.model.Entry;
-import com.giftgo.sbt.model.Outcome;
-import com.giftgo.sbt.validator.ModelValidator;
+import com.example.sbt.model.Entry;
+import com.example.sbt.model.Outcome;
+import com.example.sbt.validator.ModelValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;

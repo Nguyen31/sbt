@@ -1,8 +1,7 @@
-package com.giftgo.sbt.service;
+package com.example.sbt.service;
 
-import com.giftgo.sbt.model.Entry;
+import com.example.sbt.model.Entry;
 import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.springframework.mock.web.MockMultipartFile;
 

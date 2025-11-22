@@ -1,11 +1,5 @@
-package com.giftgo.sbt.integration;
+package com.example.sbt.integration;
 
-import com.giftgo.sbt.model.Entry;
-import com.giftgo.sbt.validator.ModelValidator;
-import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.Pattern;
-import jakarta.validation.constraints.PositiveOrZero;
-import org.hibernate.validator.constraints.UUID;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;

@@ -1,8 +1,8 @@
-package com.giftgo.sbt.service;
+package com.example.sbt.service;
 
-import com.giftgo.sbt.exception.ValidationException;
-import com.giftgo.sbt.model.Entry;
-import com.giftgo.sbt.validator.ModelValidator;
+import com.example.sbt.exception.ValidationException;
+import com.example.sbt.model.Entry;
+import com.example.sbt.validator.ModelValidator;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;

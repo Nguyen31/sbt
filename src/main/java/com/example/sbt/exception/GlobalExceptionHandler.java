@@ -1,4 +1,4 @@
-package com.giftgo.sbt.exception;
+package com.example.sbt.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;

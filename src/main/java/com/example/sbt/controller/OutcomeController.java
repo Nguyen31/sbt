@@ -1,9 +1,9 @@
-package com.giftgo.sbt.controller;
+package com.example.sbt.controller;
 
-import com.giftgo.sbt.exception.BadRequestException;
-import com.giftgo.sbt.model.Outcome;
-import com.giftgo.sbt.service.EntryService;
-import com.giftgo.sbt.service.OutcomeService;
+import com.example.sbt.exception.BadRequestException;
+import com.example.sbt.model.Outcome;
+import com.example.sbt.service.EntryService;
+import com.example.sbt.service.OutcomeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.validation.annotation.Validated;

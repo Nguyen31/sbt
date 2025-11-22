@@ -1,17 +1,15 @@
-package com.giftgo.sbt.controller;
+package com.example.sbt.controller;
 
-import com.giftgo.sbt.model.Entry;
-import com.giftgo.sbt.model.Outcome;
-import com.giftgo.sbt.service.EntryService;
-import com.giftgo.sbt.service.OutcomeService;
-import com.giftgo.sbt.validator.ModelValidator;
+import com.example.sbt.model.Entry;
+import com.example.sbt.model.Outcome;
+import com.example.sbt.service.EntryService;
+import com.example.sbt.service.OutcomeService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
 import org.springframework.mock.web.MockMultipartFile;
 import org.springframework.test.context.bean.override.mockito.MockitoBean;
 import org.springframework.test.web.servlet.MockMvc;
-import org.springframework.validation.Validator;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.util.List;
